@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;700&display=swap');
+
+* {
+  font-family: 'Poppins', sans-serif !important;
+}
+
+.ant-popover-inner {
+  margin: 15px !important;
+}
+
+.ant-select-dropdown {
+  .rc-virtual-list-scrollbar {
+    display: none;
+  }
+}
+::-webkit-scrollbar-thumb {
+  display: none;
+}
