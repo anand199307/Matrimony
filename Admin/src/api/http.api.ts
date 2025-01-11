@@ -5,7 +5,7 @@ import { readToken } from '@app/services/localStorage.service';
 
 export const httpApi = axios.create({
   // baseURL: process.env.REACT_APP_BASE_URL,
-  baseURL: '',
+  baseURL: 'URL',
 });
 
 httpApi.interceptors.request.use((config) => {
