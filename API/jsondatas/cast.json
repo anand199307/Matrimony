@@ -1,0 +1,1832 @@
+{
+  "caste": [
+    {
+      "id": "Adi Andhra",
+      "text": "Adi Andhra"
+    },
+    {
+      "id": "Adi Dharmi",
+      "text": "Adi Dharmi"
+    },
+    {
+      "id": "Adi Dravida",
+      "text": "Adi Dravida"
+    },
+    {
+      "id": "Adi Karnataka",
+      "text": "Adi Karnataka"
+    },
+    {
+      "id": "Agamudayar",
+      "text": "Agamudayar"
+    },
+    {
+      "id": "Agarwal",
+      "text": "Agarwal"
+    },
+    {
+      "id": "Agnikula Kshatriya",
+      "text": "Agnikula Kshatriya"
+    },
+    {
+      "id": "Agri",
+      "text": "Agri"
+    },
+    {
+      "id": "Ahir",
+      "text": "Ahir"
+    },
+    {
+      "id": "Ahom",
+      "text": "Ahom"
+    },
+    {
+      "id": "Ambalavasi",
+      "text": "Ambalavasi"
+    },
+    {
+      "id": "Arcot",
+      "text": "Arcot"
+    },
+    {
+      "id": "Arekatica",
+      "text": "Arekatica"
+    },
+    {
+      "id": "Arora",
+      "text": "Arora"
+    },
+    {
+      "id": "Arunthathiyar",
+      "text": "Arunthathiyar"
+    },
+    {
+      "id": "Arya Vysya",
+      "text": "Arya Vysya"
+    },
+    {
+      "id": "Aryasamaj",
+      "text": "Aryasamaj"
+    },
+    {
+      "id": "Ayyaraka",
+      "text": "Ayyaraka"
+    },
+    {
+      "id": "Badaga",
+      "text": "Badaga"
+    },
+    {
+      "id": "Baghel/Pal/Gaderiya",
+      "text": "Baghel/Pal/Gaderiya"
+    },
+    {
+      "id": "Bahi",
+      "text": "Bahi"
+    },
+    {
+      "id": "Baidya",
+      "text": "Baidya"
+    },
+    {
+      "id": "Baishnab",
+      "text": "Baishnab"
+    },
+    {
+      "id": "Baishya",
+      "text": "Baishya"
+    },
+    {
+      "id": "Bajantri",
+      "text": "Bajantri"
+    },
+    {
+      "id": "Balija",
+      "text": "Balija"
+    },
+    {
+      "id": "Balija - Naidu",
+      "text": "Balija - Naidu"
+    },
+    {
+      "id": "Banayat Oriya",
+      "text": "Banayat Oriya"
+    },
+    {
+      "id": "Banik",
+      "text": "Banik"
+    },
+    {
+      "id": "Baniya",
+      "text": "Baniya"
+    },
+    {
+      "id": "Barai",
+      "text": "Barai"
+    },
+    {
+      "id": "Bari",
+      "text": "Bari"
+    },
+    {
+      "id": "Barnwal",
+      "text": "Barnwal"
+    },
+    {
+      "id": "Barujibi",
+      "text": "Barujibi"
+    },
+    {
+      "id": "Besta",
+      "text": "Besta"
+    },
+    {
+      "id": "Bhandari",
+      "text": "Bhandari"
+    },
+    {
+      "id": "Bhatia",
+      "text": "Bhatia"
+    },
+    {
+      "id": "Bhatraju",
+      "text": "Bhatraju"
+    },
+    {
+      "id": "Bhavsar",
+      "text": "Bhavsar"
+    },
+    {
+      "id": "Bhovi",
+      "text": "Bhovi"
+    },
+    {
+      "id": "Billava",
+      "text": "Billava"
+    },
+    {
+      "id": "Boya/Nayak/Naik",
+      "text": "Boya/Nayak/Naik"
+    },
+    {
+      "id": "Boyer",
+      "text": "Boyer"
+    },
+    {
+      "id": "Brahmbatt",
+      "text": "Brahmbatt"
+    },
+    {
+      "id": "Brahmin - Anavil",
+      "text": "Brahmin - Anavil"
+    },
+    {
+      "id": "Brahmin - Audichya",
+      "text": "Brahmin - Audichya"
+    },
+    {
+      "id": "Brahmin - Barendra",
+      "text": "Brahmin - Barendra"
+    },
+    {
+      "id": "Brahmin - Bhatt",
+      "text": "Brahmin - Bhatt"
+    },
+    {
+      "id": "Brahmin - Bhumihar",
+      "text": "Brahmin - Bhumihar"
+    },
+    {
+      "id": "Brahmin - Brahmbhatt",
+      "text": "Brahmin - Brahmbhatt"
+    },
+    {
+      "id": "Brahmin - Dadhich/Dadheech",
+      "text": "Brahmin - Dadhich/Dadheech"
+    },
+    {
+      "id": "Brahmin - Daivadnya",
+      "text": "Brahmin - Daivadnya"
+    },
+    {
+      "id": "Brahmin - Danua",
+      "text": "Brahmin - Danua"
+    },
+    {
+      "id": "Brahmin - Deshastha",
+      "text": "Brahmin - Deshastha"
+    },
+    {
+      "id": "Brahmin - Dhiman",
+      "text": "Brahmin - Dhiman"
+    },
+    {
+      "id": "Brahmin - Dravida",
+      "text": "Brahmin - Dravida"
+    },
+    {
+      "id": "Brahmin - Embrandiri",
+      "text": "Brahmin - Embrandiri"
+    },
+    {
+      "id": "Brahmin - Goswami",
+      "text": "Brahmin - Goswami"
+    },
+    {
+      "id": "Brahmin - Gour",
+      "text": "Brahmin - Gour"
+    },
+    {
+      "id": "Brahmin - Gowd Saraswat",
+      "text": "Brahmin - Gowd Saraswat"
+    },
+    {
+      "id": "Brahmin - Gujar Gour",
+      "text": "Brahmin - Gujar Gour"
+    },
+    {
+      "id": "Brahmin - Gurukkal",
+      "text": "Brahmin - Gurukkal"
+    },
+    {
+      "id": "Brahmin - Halua",
+      "text": "Brahmin - Halua"
+    },
+    {
+      "id": "Brahmin - Havyaka",
+      "text": "Brahmin - Havyaka"
+    },
+    {
+      "id": "Brahmin - Himachali",
+      "text": "Brahmin - Himachali"
+    },
+    {
+      "id": "Brahmin - Hoysala",
+      "text": "Brahmin - Hoysala"
+    },
+    {
+      "id": "Brahmin - Iyengar",
+      "text": "Brahmin - Iyengar"
+    },
+    {
+      "id": "Brahmin - Iyer",
+      "text": "Brahmin - Iyer"
+    },
+    {
+      "id": "Brahmin - Jangid",
+      "text": "Brahmin - Jangid"
+    },
+    {
+      "id": "Brahmin - Jhadua",
+      "text": "Brahmin - Jhadua"
+    },
+    {
+      "id": "Brahmin - Jhijhotiya",
+      "text": "Brahmin - Jhijhotiya"
+    },
+    {
+      "id": "Brahmin - Kanyakubja",
+      "text": "Brahmin - Kanyakubja"
+    },
+    {
+      "id": "Brahmin - Karhade",
+      "text": "Brahmin - Karhade"
+    },
+    {
+      "id": "Brahmin - Kashmiri Pandit",
+      "text": "Brahmin - Kashmiri Pandit"
+    },
+    {
+      "id": "Brahmin - Kokanastha",
+      "text": "Brahmin - Kokanastha"
+    },
+    {
+      "id": "Brahmin - Kota",
+      "text": "Brahmin - Kota"
+    },
+    {
+      "id": "Brahmin - Kulin",
+      "text": "Brahmin - Kulin"
+    },
+    {
+      "id": "Brahmin - Kumaoni",
+      "text": "Brahmin - Kumaoni"
+    },
+    {
+      "id": "Brahmin - Madhwa",
+      "text": "Brahmin - Madhwa"
+    },
+    {
+      "id": "Brahmin - Maithili",
+      "text": "Brahmin - Maithili"
+    },
+    {
+      "id": "Brahmin - Modh",
+      "text": "Brahmin - Modh"
+    },
+    {
+      "id": "Brahmin - Mohyal",
+      "text": "Brahmin - Mohyal"
+    },
+    {
+      "id": "Brahmin - Nagar",
+      "text": "Brahmin - Nagar"
+    },
+    {
+      "id": "Brahmin - Namboodiri",
+      "text": "Brahmin - Namboodiri"
+    },
+    {
+      "id": "Brahmin - Niyogi",
+      "text": "Brahmin - Niyogi"
+    },
+    {
+      "id": "Brahmin - Niyogi Nandavariki",
+      "text": "Brahmin - Niyogi Nandavariki"
+    },
+    {
+      "id": "Brahmin - Other",
+      "text": "Brahmin - Other"
+    },
+    {
+      "id": "Brahmin - Paliwal",
+      "text": "Brahmin - Paliwal"
+    },
+    {
+      "id": "Brahmin - Panda",
+      "text": "Brahmin - Panda"
+    },
+    {
+      "id": "Brahmin - Pareek",
+      "text": "Brahmin - Pareek"
+    },
+    {
+      "id": "Brahmin - Pushkarna",
+      "text": "Brahmin - Pushkarna"
+    },
+    {
+      "id": "Brahmin - Rarhi",
+      "text": "Brahmin - Rarhi"
+    },
+    {
+      "id": "Brahmin - Rudraj",
+      "text": "Brahmin - Rudraj"
+    },
+    {
+      "id": "Brahmin - Sakaldwipi",
+      "text": "Brahmin - Sakaldwipi"
+    },
+    {
+      "id": "Brahmin - Sanadya",
+      "text": "Brahmin - Sanadya"
+    },
+    {
+      "id": "Brahmin - Sanketi",
+      "text": "Brahmin - Sanketi"
+    },
+    {
+      "id": "Brahmin - Saraswat",
+      "text": "Brahmin - Saraswat"
+    },
+    {
+      "id": "Brahmin - Sarua",
+      "text": "Brahmin - Sarua"
+    },
+    {
+      "id": "Brahmin - Saryuparin",
+      "text": "Brahmin - Saryuparin"
+    },
+    {
+      "id": "Brahmin - Shivhalli",
+      "text": "Brahmin - Shivhalli"
+    },
+    {
+      "id": "Brahmin - Shrimali",
+      "text": "Brahmin - Shrimali"
+    },
+    {
+      "id": "Brahmin - Smartha",
+      "text": "Brahmin - Smartha"
+    },
+    {
+      "id": "Brahmin - Sri Vaishnava",
+      "text": "Brahmin - Sri Vaishnava"
+    },
+    {
+      "id": "Brahmin - Stanika",
+      "text": "Brahmin - Stanika"
+    },
+    {
+      "id": "Brahmin - Tyagi",
+      "text": "Brahmin - Tyagi"
+    },
+    {
+      "id": "Brahmin - Vaidiki",
+      "text": "Brahmin - Vaidiki"
+    },
+    {
+      "id": "Brahmin - Vaikhanasa",
+      "text": "Brahmin - Vaikhanasa"
+    },
+    {
+      "id": "Brahmin - Velanadu",
+      "text": "Brahmin - Velanadu"
+    },
+    {
+      "id": "Brahmin - Viswabrahmin",
+      "text": "Brahmin - Viswabrahmin"
+    },
+    {
+      "id": "Brahmin - Vyas",
+      "text": "Brahmin - Vyas"
+    },
+    {
+      "id": "Brahmo",
+      "text": "Brahmo"
+    },
+    {
+      "id": "Buddar",
+      "text": "Buddar"
+    },
+    {
+      "id": "Bunt (Shetty)",
+      "text": "Bunt (Shetty)"
+    },
+    {
+      "id": "CKP",
+      "text": "CKP"
+    },
+    {
+      "id": "Chalawadi Holeya",
+      "text": "Chalawadi Holeya"
+    },
+    {
+      "id": "Chambhar",
+      "text": "Chambhar"
+    },
+    {
+      "id": "Chandravanshi Kahar",
+      "text": "Chandravanshi Kahar"
+    },
+    {
+      "id": "Chasa",
+      "text": "Chasa"
+    },
+    {
+      "id": "Chattada Sri Vaishnava",
+      "text": "Chattada Sri Vaishnava"
+    },
+    {
+      "id": "Chaudary",
+      "text": "Chaudary"
+    },
+    {
+      "id": "Chaurasia",
+      "text": "Chaurasia"
+    },
+    {
+      "id": "Chekkala - Nair",
+      "text": "Chekkala - Nair"
+    },
+    {
+      "id": "Chennadasar",
+      "text": "Chennadasar"
+    },
+    {
+      "id": "Cheramar",
+      "text": "Cheramar"
+    },
+    {
+      "id": "Chettiar",
+      "text": "Chettiar"
+    },
+    {
+      "id": "Chhetri",
+      "text": "Chhetri"
+    },
+    {
+      "id": "Chippolu/Mera",
+      "text": "Chippolu/Mera"
+    },
+    {
+      "id": "Devadiga",
+      "text": "Devadiga"
+    },
+    {
+      "id": "Devanga",
+      "text": "Devanga"
+    },
+    {
+      "id": "Devar/Thevar/Mukkulathor",
+      "text": "Devar/Thevar/Mukkulathor"
+    },
+    {
+      "id": "Devendra Kula Vellalar",
+      "text": "Devendra Kula Vellalar"
+    },
+    {
+      "id": "Dhangar",
+      "text": "Dhangar"
+    },
+    {
+      "id": "Dheevara",
+      "text": "Dheevara"
+    },
+    {
+      "id": "Dhiman",
+      "text": "Dhiman"
+    },
+    {
+      "id": "Dhoba",
+      "text": "Dhoba"
+    },
+    {
+      "id": "Digambar",
+      "text": "Digambar"
+    },
+    {
+      "id": "Dommala",
+      "text": "Dommala"
+    },
+    {
+      "id": "Dusadh",
+      "text": "Dusadh"
+    },
+    {
+      "id": "Ediga",
+      "text": "Ediga"
+    },
+    {
+      "id": "Ezhava",
+      "text": "Ezhava"
+    },
+    {
+      "id": "Ezhuthachan",
+      "text": "Ezhuthachan"
+    },
+    {
+      "id": "Gabit",
+      "text": "Gabit"
+    },
+    {
+      "id": "Ganakar",
+      "text": "Ganakar"
+    },
+    {
+      "id": "Gandla",
+      "text": "Gandla"
+    },
+    {
+      "id": "Ganiga",
+      "text": "Ganiga"
+    },
+    {
+      "id": "Gatti",
+      "text": "Gatti"
+    },
+    {
+      "id": "Gavali",
+      "text": "Gavali"
+    },
+    {
+      "id": "Gavara",
+      "text": "Gavara"
+    },
+    {
+      "id": "Ghumar",
+      "text": "Ghumar"
+    },
+    {
+      "id": "Goala",
+      "text": "Goala"
+    },
+    {
+      "id": "Goswami",
+      "text": "Goswami"
+    },
+    {
+      "id": "Goud",
+      "text": "Goud"
+    },
+    {
+      "id": "Gounder",
+      "text": "Gounder"
+    },
+    {
+      "id": "Gowda",
+      "text": "Gowda"
+    },
+    {
+      "id": "Gramani",
+      "text": "Gramani"
+    },
+    {
+      "id": "Gudia",
+      "text": "Gudia"
+    },
+    {
+      "id": "Gujjar",
+      "text": "Gujjar"
+    },
+    {
+      "id": "Gupta",
+      "text": "Gupta"
+    },
+    {
+      "id": "Guptan",
+      "text": "Guptan"
+    },
+    {
+      "id": "Gurjar",
+      "text": "Gurjar"
+    },
+    {
+      "id": "Halwai",
+      "text": "Halwai"
+    },
+    {
+      "id": "Hegde",
+      "text": "Hegde"
+    },
+    {
+      "id": "Helava",
+      "text": "Helava"
+    },
+    {
+      "id": "Hugar (Jeer)",
+      "text": "Hugar (Jeer)"
+    },
+    {
+      "id": "Intercaste",
+      "text": "Intercaste"
+    },
+    {
+      "id": "Jaalari",
+      "text": "Jaalari"
+    },
+    {
+      "id": "Jaiswal",
+      "text": "Jaiswal"
+    },
+    {
+      "id": "Jandra",
+      "text": "Jandra"
+    },
+    {
+      "id": "Jangam",
+      "text": "Jangam"
+    },
+    {
+      "id": "Jat",
+      "text": "Jat"
+    },
+    {
+      "id": "Jatav",
+      "text": "Jatav"
+    },
+    {
+      "id": "Jetty Malla",
+      "text": "Jetty Malla"
+    },
+    {
+      "id": "Kachara",
+      "text": "Kachara"
+    },
+    {
+      "id": "Kaibarta",
+      "text": "Kaibarta"
+    },
+    {
+      "id": "Kakkalan",
+      "text": "Kakkalan"
+    },
+    {
+      "id": "Kalar",
+      "text": "Kalar"
+    },
+    {
+      "id": "Kalinga",
+      "text": "Kalinga"
+    },
+    {
+      "id": "Kalinga Vysya",
+      "text": "Kalinga Vysya"
+    },
+    {
+      "id": "Kalita",
+      "text": "Kalita"
+    },
+    {
+      "id": "Kalwar",
+      "text": "Kalwar"
+    },
+    {
+      "id": "Kamboj",
+      "text": "Kamboj"
+    },
+    {
+      "id": "Kamma",
+      "text": "Kamma"
+    },
+    {
+      "id": "Kamma Naidu",
+      "text": "Kamma Naidu"
+    },
+    {
+      "id": "Kammala",
+      "text": "Kammala"
+    },
+    {
+      "id": "Kaniyan",
+      "text": "Kaniyan"
+    },
+    {
+      "id": "Kansari",
+      "text": "Kansari"
+    },
+    {
+      "id": "Kanu",
+      "text": "Kanu"
+    },
+    {
+      "id": "Kapu",
+      "text": "Kapu"
+    },
+    {
+      "id": "Kapu Naidu",
+      "text": "Kapu Naidu"
+    },
+    {
+      "id": "Karana",
+      "text": "Karana"
+    },
+    {
+      "id": "Karmakar",
+      "text": "Karmakar"
+    },
+    {
+      "id": "Kartha",
+      "text": "Kartha"
+    },
+    {
+      "id": "Karuneegar",
+      "text": "Karuneegar"
+    },
+    {
+      "id": "Kasar",
+      "text": "Kasar"
+    },
+    {
+      "id": "Kashyap",
+      "text": "Kashyap"
+    },
+    {
+      "id": "Kavuthiyya/Ezhavathy",
+      "text": "Kavuthiyya/Ezhavathy"
+    },
+    {
+      "id": "Kayastha",
+      "text": "Kayastha"
+    },
+    {
+      "id": "Khandayat",
+      "text": "Khandayat"
+    },
+    {
+      "id": "Khandelwal",
+      "text": "Khandelwal"
+    },
+    {
+      "id": "Kharwar",
+      "text": "Kharwar"
+    },
+    {
+      "id": "Khatik",
+      "text": "Khatik"
+    },
+    {
+      "id": "Khatri",
+      "text": "Khatri"
+    },
+    {
+      "id": "Kirar",
+      "text": "Kirar"
+    },
+    {
+      "id": "Koli",
+      "text": "Koli"
+    },
+    {
+      "id": "Koli Patel",
+      "text": "Koli Patel"
+    },
+    {
+      "id": "Kongu Vellala Gounder",
+      "text": "Kongu Vellala Gounder"
+    },
+    {
+      "id": "Korama",
+      "text": "Korama"
+    },
+    {
+      "id": "Kori",
+      "text": "Kori"
+    },
+    {
+      "id": "Koshti",
+      "text": "Koshti"
+    },
+    {
+      "id": "Krishnavaka",
+      "text": "Krishnavaka"
+    },
+    {
+      "id": "Kshatriya",
+      "text": "Kshatriya"
+    },
+    {
+      "id": "Kshatriya - Bhavasar",
+      "text": "Kshatriya - Bhavasar"
+    },
+    {
+      "id": "Kshatriya/Raju/Varma",
+      "text": "Kshatriya/Raju/Varma"
+    },
+    {
+      "id": "Kudumbi",
+      "text": "Kudumbi"
+    },
+    {
+      "id": "Kulal",
+      "text": "Kulal"
+    },
+    {
+      "id": "Kulalar",
+      "text": "Kulalar"
+    },
+    {
+      "id": "Kulita",
+      "text": "Kulita"
+    },
+    {
+      "id": "Kumawat",
+      "text": "Kumawat"
+    },
+    {
+      "id": "Kumbara",
+      "text": "Kumbara"
+    },
+    {
+      "id": "Kumbhakar/Kumbhar",
+      "text": "Kumbhakar/Kumbhar"
+    },
+    {
+      "id": "Kumhar",
+      "text": "Kumhar"
+    },
+    {
+      "id": "Kummari",
+      "text": "Kummari"
+    },
+    {
+      "id": "Kunbi",
+      "text": "Kunbi"
+    },
+    {
+      "id": "Kurava",
+      "text": "Kurava"
+    },
+    {
+      "id": "Kuravan",
+      "text": "Kuravan"
+    },
+    {
+      "id": "Kurmi",
+      "text": "Kurmi"
+    },
+    {
+      "id": "Kurmi Kshatriya",
+      "text": "Kurmi Kshatriya"
+    },
+    {
+      "id": "Kuruba",
+      "text": "Kuruba"
+    },
+    {
+      "id": "Kuruhina Shetty",
+      "text": "Kuruhina Shetty"
+    },
+    {
+      "id": "Kurumbar",
+      "text": "Kurumbar"
+    },
+    {
+      "id": "Kurup",
+      "text": "Kurup"
+    },
+    {
+      "id": "Kushwaha",
+      "text": "Kushwaha"
+    },
+    {
+      "id": "Lambadi/Banjara",
+      "text": "Lambadi/Banjara"
+    },
+    {
+      "id": "Lambani",
+      "text": "Lambani"
+    },
+    {
+      "id": "Leva Patil",
+      "text": "Leva Patil"
+    },
+    {
+      "id": "Lingayath",
+      "text": "Lingayath"
+    },
+    {
+      "id": "Lohana",
+      "text": "Lohana"
+    },
+    {
+      "id": "Lohar",
+      "text": "Lohar"
+    },
+    {
+      "id": "Loniya/Lonia/Lunia",
+      "text": "Loniya/Lonia/Lunia"
+    },
+    {
+      "id": "Lubana",
+      "text": "Lubana"
+    },
+    {
+      "id": "Madhesiya",
+      "text": "Madhesiya"
+    },
+    {
+      "id": "Madiga",
+      "text": "Madiga"
+    },
+    {
+      "id": "Mahajan",
+      "text": "Mahajan"
+    },
+    {
+      "id": "Mahar",
+      "text": "Mahar"
+    },
+    {
+      "id": "Mahendra",
+      "text": "Mahendra"
+    },
+    {
+      "id": "Maheshwari",
+      "text": "Maheshwari"
+    },
+    {
+      "id": "Mahindra",
+      "text": "Mahindra"
+    },
+    {
+      "id": "Mahishya",
+      "text": "Mahishya"
+    },
+    {
+      "id": "Majabi",
+      "text": "Majabi"
+    },
+    {
+      "id": "Mala",
+      "text": "Mala"
+    },
+    {
+      "id": "Malayalee Variar",
+      "text": "Malayalee Variar"
+    },
+    {
+      "id": "Mali",
+      "text": "Mali"
+    },
+    {
+      "id": "Mallah",
+      "text": "Mallah"
+    },
+    {
+      "id": "Mangalorean",
+      "text": "Mangalorean"
+    },
+    {
+      "id": "Maniyani",
+      "text": "Maniyani"
+    },
+    {
+      "id": "Mannadiar",
+      "text": "Mannadiar"
+    },
+    {
+      "id": "Mannan",
+      "text": "Mannan"
+    },
+    {
+      "id": "Mapila",
+      "text": "Mapila"
+    },
+    {
+      "id": "Marar",
+      "text": "Marar"
+    },
+    {
+      "id": "Maratha",
+      "text": "Maratha"
+    },
+    {
+      "id": "Maratha - Gomantak",
+      "text": "Maratha - Gomantak"
+    },
+    {
+      "id": "Maruthuvar",
+      "text": "Maruthuvar"
+    },
+    {
+      "id": "Marvar",
+      "text": "Marvar"
+    },
+    {
+      "id": "Marwari",
+      "text": "Marwari"
+    },
+    {
+      "id": "Matang",
+      "text": "Matang"
+    },
+    {
+      "id": "Maurya",
+      "text": "Maurya"
+    },
+    {
+      "id": "Meda",
+      "text": "Meda"
+    },
+    {
+      "id": "Medara",
+      "text": "Medara"
+    },
+    {
+      "id": "Meena",
+      "text": "Meena"
+    },
+    {
+      "id": "Meenavar",
+      "text": "Meenavar"
+    },
+    {
+      "id": "Meghwal",
+      "text": "Meghwal"
+    },
+    {
+      "id": "Mehra",
+      "text": "Mehra"
+    },
+    {
+      "id": "Menon",
+      "text": "Menon"
+    },
+    {
+      "id": "Meru Darji",
+      "text": "Meru Darji"
+    },
+    {
+      "id": "Modak",
+      "text": "Modak"
+    },
+    {
+      "id": "Mogaveera",
+      "text": "Mogaveera"
+    },
+    {
+      "id": "Monchi",
+      "text": "Monchi"
+    },
+    {
+      "id": "Mudaliar",
+      "text": "Mudaliar"
+    },
+    {
+      "id": "Mudaliar - Arcot",
+      "text": "Mudaliar - Arcot"
+    },
+    {
+      "id": "Mudaliar - Saiva",
+      "text": "Mudaliar - Saiva"
+    },
+    {
+      "id": "Mudaliar - Senguntha",
+      "text": "Mudaliar - Senguntha"
+    },
+    {
+      "id": "Mudiraj",
+      "text": "Mudiraj"
+    },
+    {
+      "id": "Munnuru Kapu",
+      "text": "Munnuru Kapu"
+    },
+    {
+      "id": "Muthuraja",
+      "text": "Muthuraja"
+    },
+    {
+      "id": "Naagavamsam",
+      "text": "Naagavamsam"
+    },
+    {
+      "id": "Nadar",
+      "text": "Nadar"
+    },
+    {
+      "id": "Nagaralu",
+      "text": "Nagaralu"
+    },
+    {
+      "id": "Nai",
+      "text": "Nai"
+    },
+    {
+      "id": "Naicken",
+      "text": "Naicken"
+    },
+    {
+      "id": "Naicker",
+      "text": "Naicker"
+    },
+    {
+      "id": "Naidu",
+      "text": "Naidu"
+    },
+    {
+      "id": "Naik",
+      "text": "Naik"
+    },
+    {
+      "id": "Nair",
+      "text": "Nair"
+    },
+    {
+      "id": "Nair - Vaniya",
+      "text": "Nair - Vaniya"
+    },
+    {
+      "id": "Nair - Velethadathu",
+      "text": "Nair - Velethadathu"
+    },
+    {
+      "id": "Nair - Vilakkithala",
+      "text": "Nair - Vilakkithala"
+    },
+    {
+      "id": "Namasudra",
+      "text": "Namasudra"
+    },
+    {
+      "id": "Nambiar",
+      "text": "Nambiar"
+    },
+    {
+      "id": "Nambisan",
+      "text": "Nambisan"
+    },
+    {
+      "id": "Namdev",
+      "text": "Namdev"
+    },
+    {
+      "id": "Namosudra",
+      "text": "Namosudra"
+    },
+    {
+      "id": "Napit",
+      "text": "Napit"
+    },
+    {
+      "id": "Nayak",
+      "text": "Nayak"
+    },
+    {
+      "id": "Nayaka",
+      "text": "Nayaka"
+    },
+    {
+      "id": "Neeli",
+      "text": "Neeli"
+    },
+    {
+      "id": "Nhavi",
+      "text": "Nhavi"
+    },
+    {
+      "id": "OBC - Barber/Naayee",
+      "text": "OBC - Barber/Naayee"
+    },
+    {
+      "id": "Oswal",
+      "text": "Oswal"
+    },
+    {
+      "id": "Otari",
+      "text": "Otari"
+    },
+    {
+      "id": "Padmasali",
+      "text": "Padmasali"
+    },
+    {
+      "id": "Panchal",
+      "text": "Panchal"
+    },
+    {
+      "id": "Pandaram",
+      "text": "Pandaram"
+    },
+    {
+      "id": "Panicker",
+      "text": "Panicker"
+    },
+    {
+      "id": "Paravan",
+      "text": "Paravan"
+    },
+    {
+      "id": "Parit",
+      "text": "Parit"
+    },
+    {
+      "id": "Parkava Kulam",
+      "text": "Parkava Kulam"
+    },
+    {
+      "id": "Partraj",
+      "text": "Partraj"
+    },
+    {
+      "id": "Pasi",
+      "text": "Pasi"
+    },
+    {
+      "id": "Paswan",
+      "text": "Paswan"
+    },
+    {
+      "id": "Patel",
+      "text": "Patel"
+    },
+    {
+      "id": "Patel - Desai",
+      "text": "Patel - Desai"
+    },
+    {
+      "id": "Patel - Dodia",
+      "text": "Patel - Dodia"
+    },
+    {
+      "id": "Patel - Kadva",
+      "text": "Patel - Kadva"
+    },
+    {
+      "id": "Patel - Leva",
+      "text": "Patel - Leva"
+    },
+    {
+      "id": "Patnaick",
+      "text": "Patnaick"
+    },
+    {
+      "id": "Patra",
+      "text": "Patra"
+    },
+    {
+      "id": "Patwa",
+      "text": "Patwa"
+    },
+    {
+      "id": "Perika",
+      "text": "Perika"
+    },
+    {
+      "id": "Pillai",
+      "text": "Pillai"
+    },
+    {
+      "id": "Pisharody",
+      "text": "Pisharody"
+    },
+    {
+      "id": "Poduval",
+      "text": "Poduval"
+    },
+    {
+      "id": "Poosala",
+      "text": "Poosala"
+    },
+    {
+      "id": "Porwal",
+      "text": "Porwal"
+    },
+    {
+      "id": "Prajapati",
+      "text": "Prajapati"
+    },
+    {
+      "id": "Pulaya",
+      "text": "Pulaya"
+    },
+    {
+      "id": "Raigar",
+      "text": "Raigar"
+    },
+    {
+      "id": "Rajaka/Chakali/Dhobi",
+      "text": "Rajaka/Chakali/Dhobi"
+    },
+    {
+      "id": "Rajbhar",
+      "text": "Rajbhar"
+    },
+    {
+      "id": "Rajput",
+      "text": "Rajput"
+    },
+    {
+      "id": "Rajput - Kumaoni",
+      "text": "Rajput - Kumaoni"
+    },
+    {
+      "id": "Rajput - Lodhi",
+      "text": "Rajput - Lodhi"
+    },
+    {
+      "id": "Ramdasia",
+      "text": "Ramdasia"
+    },
+    {
+      "id": "Ramgharia",
+      "text": "Ramgharia"
+    },
+    {
+      "id": "Rauniyar",
+      "text": "Rauniyar"
+    },
+    {
+      "id": "Ravidasia",
+      "text": "Ravidasia"
+    },
+    {
+      "id": "Rawat",
+      "text": "Rawat"
+    },
+    {
+      "id": "Reddiar",
+      "text": "Reddiar"
+    },
+    {
+      "id": "Reddy",
+      "text": "Reddy"
+    },
+    {
+      "id": "Relli",
+      "text": "Relli"
+    },
+    {
+      "id": "SSK",
+      "text": "SSK"
+    },
+    {
+      "id": "Sadgop",
+      "text": "Sadgop"
+    },
+    {
+      "id": "Sagara - Uppara",
+      "text": "Sagara - Uppara"
+    },
+    {
+      "id": "Saha",
+      "text": "Saha"
+    },
+    {
+      "id": "Sahu",
+      "text": "Sahu"
+    },
+    {
+      "id": "Saini",
+      "text": "Saini"
+    },
+    {
+      "id": "Saiva Vellala",
+      "text": "Saiva Vellala"
+    },
+    {
+      "id": "Saliya",
+      "text": "Saliya"
+    },
+    {
+      "id": "Sambava",
+      "text": "Sambava"
+    },
+    {
+      "id": "Satnami",
+      "text": "Satnami"
+    },
+    {
+      "id": "Savji",
+      "text": "Savji"
+    },
+    {
+      "id": "Scheduled Caste (SC)",
+      "text": "Scheduled Caste (SC)"
+    },
+    {
+      "id": "Scheduled Tribe (ST)",
+      "text": "Scheduled Tribe (ST)"
+    },
+    {
+      "id": "Senai Thalaivar",
+      "text": "Senai Thalaivar"
+    },
+    {
+      "id": "Sepahia",
+      "text": "Sepahia"
+    },
+    {
+      "id": "Setti Balija",
+      "text": "Setti Balija"
+    },
+    {
+      "id": "Shah",
+      "text": "Shah"
+    },
+    {
+      "id": "Shilpkar",
+      "text": "Shilpkar"
+    },
+    {
+      "id": "Shimpi",
+      "text": "Shimpi"
+    },
+    {
+      "id": "Sindhi - Bhanusali",
+      "text": "Sindhi - Bhanusali"
+    },
+    {
+      "id": "Sindhi - Bhatia",
+      "text": "Sindhi - Bhatia"
+    },
+    {
+      "id": "Sindhi - Chhapru",
+      "text": "Sindhi - Chhapru"
+    },
+    {
+      "id": "Sindhi - Dadu",
+      "text": "Sindhi - Dadu"
+    },
+    {
+      "id": "Sindhi - Hyderabadi",
+      "text": "Sindhi - Hyderabadi"
+    },
+    {
+      "id": "Sindhi - Larai",
+      "text": "Sindhi - Larai"
+    },
+    {
+      "id": "Sindhi - Lohana",
+      "text": "Sindhi - Lohana"
+    },
+    {
+      "id": "Sindhi - Rohiri",
+      "text": "Sindhi - Rohiri"
+    },
+    {
+      "id": "Sindhi - Sehwani",
+      "text": "Sindhi - Sehwani"
+    },
+    {
+      "id": "Sindhi - Thatai",
+      "text": "Sindhi - Thatai"
+    },
+    {
+      "id": "Sindhi-Amil",
+      "text": "Sindhi-Amil"
+    },
+    {
+      "id": "Sindhi-Baibhand",
+      "text": "Sindhi-Baibhand"
+    },
+    {
+      "id": "Sindhi-Larkana",
+      "text": "Sindhi-Larkana"
+    },
+    {
+      "id": "Sindhi-Sahiti",
+      "text": "Sindhi-Sahiti"
+    },
+    {
+      "id": "Sindhi-Sakkhar",
+      "text": "Sindhi-Sakkhar"
+    },
+    {
+      "id": "Sindhi-Shikarpuri",
+      "text": "Sindhi-Shikarpuri"
+    },
+    {
+      "id": "Somvanshi",
+      "text": "Somvanshi"
+    },
+    {
+      "id": "Sonar",
+      "text": "Sonar"
+    },
+    {
+      "id": "Soni",
+      "text": "Soni"
+    },
+    {
+      "id": "Sozhiya Vellalar",
+      "text": "Sozhiya Vellalar"
+    },
+    {
+      "id": "Sri Vaishnava",
+      "text": "Sri Vaishnava"
+    },
+    {
+      "id": "Srisayana",
+      "text": "Srisayana"
+    },
+    {
+      "id": "Subarna Banik",
+      "text": "Subarna Banik"
+    },
+    {
+      "id": "Sugali (Naika)",
+      "text": "Sugali (Naika)"
+    },
+    {
+      "id": "Sundhi",
+      "text": "Sundhi"
+    },
+    {
+      "id": "Surya Balija",
+      "text": "Surya Balija"
+    },
+    {
+      "id": "Sutar",
+      "text": "Sutar"
+    },
+    {
+      "id": "Suthar",
+      "text": "Suthar"
+    },
+    {
+      "id": "Swakula Sali",
+      "text": "Swakula Sali"
+    },
+    {
+      "id": "Swarnakar",
+      "text": "Swarnakar"
+    },
+    {
+      "id": "Tamboli",
+      "text": "Tamboli"
+    },
+    {
+      "id": "Tanti",
+      "text": "Tanti"
+    },
+    {
+      "id": "Tantuway",
+      "text": "Tantuway"
+    },
+    {
+      "id": "Telaga",
+      "text": "Telaga"
+    },
+    {
+      "id": "Teli",
+      "text": "Teli"
+    },
+    {
+      "id": "Thachar",
+      "text": "Thachar"
+    },
+    {
+      "id": "Thakkar",
+      "text": "Thakkar"
+    },
+    {
+      "id": "Thakur",
+      "text": "Thakur"
+    },
+    {
+      "id": "Thandan",
+      "text": "Thandan"
+    },
+    {
+      "id": "Thigala",
+      "text": "Thigala"
+    },
+    {
+      "id": "Thiyya",
+      "text": "Thiyya"
+    },
+    {
+      "id": "Thuluva Vellala",
+      "text": "Thuluva Vellala"
+    },
+    {
+      "id": "Tili",
+      "text": "Tili"
+    },
+    {
+      "id": "Togata",
+      "text": "Togata"
+    },
+    {
+      "id": "Turupu Kapu",
+      "text": "Turupu Kapu"
+    },
+    {
+      "id": "Udayar",
+      "text": "Udayar"
+    },
+    {
+      "id": "Urali Gounder",
+      "text": "Urali Gounder"
+    },
+    {
+      "id": "Urs",
+      "text": "Urs"
+    },
+    {
+      "id": "Vada Balija",
+      "text": "Vada Balija"
+    },
+    {
+      "id": "Vadagalai",
+      "text": "Vadagalai"
+    },
+    {
+      "id": "Vaddera",
+      "text": "Vaddera"
+    },
+    {
+      "id": "Vaduka",
+      "text": "Vaduka"
+    },
+    {
+      "id": "Vaish",
+      "text": "Vaish"
+    },
+    {
+      "id": "Vaish - Dhaneshawat",
+      "text": "Vaish - Dhaneshawat"
+    },
+    {
+      "id": "Vaishnav",
+      "text": "Vaishnav"
+    },
+    {
+      "id": "Vaishnav - Bhatia",
+      "text": "Vaishnav - Bhatia"
+    },
+    {
+      "id": "Vaishnav - Vania",
+      "text": "Vaishnav - Vania"
+    },
+    {
+      "id": "Vaishya",
+      "text": "Vaishya"
+    },
+    {
+      "id": "Vallala",
+      "text": "Vallala"
+    },
+    {
+      "id": "Valluvan",
+      "text": "Valluvan"
+    },
+    {
+      "id": "Valmiki",
+      "text": "Valmiki"
+    },
+    {
+      "id": "Vanika Vyshya",
+      "text": "Vanika Vyshya"
+    },
+    {
+      "id": "Vaniya Chettiar",
+      "text": "Vaniya Chettiar"
+    },
+    {
+      "id": "Vanjara",
+      "text": "Vanjara"
+    },
+    {
+      "id": "Vankar",
+      "text": "Vankar"
+    },
+    {
+      "id": "Vannan",
+      "text": "Vannan"
+    },
+    {
+      "id": "Vannar",
+      "text": "Vannar"
+    },
+    {
+      "id": "Vanniyakullak Kshatriya",
+      "text": "Vanniyakullak Kshatriya"
+    },
+    {
+      "id": "Vanniyar",
+      "text": "Vanniyar"
+    },
+    {
+      "id": "Variar",
+      "text": "Variar"
+    },
+    {
+      "id": "Varshney",
+      "text": "Varshney"
+    },
+    {
+      "id": "Veerashaiva",
+      "text": "Veerashaiva"
+    },
+    {
+      "id": "Velaan",
+      "text": "Velaan"
+    },
+    {
+      "id": "Velama",
+      "text": "Velama"
+    },
+    {
+      "id": "Velar",
+      "text": "Velar"
+    },
+    {
+      "id": "Vellalar",
+      "text": "Vellalar"
+    },
+    {
+      "id": "Veluthedathu - Nair",
+      "text": "Veluthedathu - Nair"
+    },
+    {
+      "id": "Vettuva Gounder",
+      "text": "Vettuva Gounder"
+    },
+    {
+      "id": "Vishwakarma",
+      "text": "Vishwakarma"
+    },
+    {
+      "id": "Viswabrahmin",
+      "text": "Viswabrahmin"
+    },
+    {
+      "id": "Vokkaliga",
+      "text": "Vokkaliga"
+    },
+    {
+      "id": "Vysya",
+      "text": "Vysya"
+    },
+    {
+      "id": "Waada Balija",
+      "text": "Waada Balija"
+    },
+    {
+      "id": "Yadav",
+      "text": "Yadav"
+    },
+    {
+      "id": "Yellapu",
+      "text": "Yellapu"
+    },
+    {
+      "id": "24 Manai Telugu Chettiar",
+      "text": "24 Manai Telugu Chettiar"
+    },
+    {
+      "id": "96 Kuli Maratha",
+      "text": "96 Kuli Maratha"
+    },
+    {
+      "id": "96K Kokanastha",
+      "text": "96K Kokanastha"
+    },
+    {
+      "id": "Other",
+      "text": "Other"
+    }
+  ]
+}

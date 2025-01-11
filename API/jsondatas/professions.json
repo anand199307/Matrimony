@@ -1,0 +1,96 @@
+{
+  "profession_list": [
+    {
+      "id": 1,
+      "name": "Accounting,Banking & Finance"
+    },
+    {
+      "id": 2,
+      "name": "Administration & HR"
+    },
+    {
+      "id": 3,
+      "name": "Advertising, Media & Entertainment"
+    },
+    {
+      "id": 4,
+      "name": "Agriculture"
+    },
+    {
+      "id": 5,
+      "name": "Airline & Aviation"
+    },
+    {
+      "id": 6,
+      "name": "Architecture & Design"
+    },
+    {
+      "id": 7,
+      "name": "Artists, Animators & Web Designers"
+    },
+    {
+      "id": 8,
+      "name": "Beauty, Fashion & Jewellery Designers"
+    },
+    {
+      "id": 9,
+      "name": "BPO, KPO, & Customer Support"
+    },
+    {
+      "id": 10,
+      "name": "Civil Services / Law Enforcement"
+    },
+    {
+      "id": 11,
+      "name": "Defense"
+    },
+    {
+      "id": 12,
+      "name": "Education & Training"
+    },
+    {
+      "id": 13,
+      "name": "Engineering"
+    },
+    {
+      "id": 14,
+      "name": "Hotel & Hospitality"
+    },
+    {
+      "id": 15,
+      "name": "IT & Software Engineering"
+    },
+    {
+      "id": 16,
+      "name": "Legal"
+    },
+    {
+      "id": 17,
+      "name": "Medical & Healthcare"
+    },
+    {
+      "id": 18,
+      "name": "Merchant Navy"
+    },
+    {
+      "id": 19,
+      "name": "Sales & Marketing"
+    },
+    {
+      "id": 20,
+      "name": "Science"
+    },
+    {
+      "id": 21,
+      "name": "Corporate Professionals"
+    },
+    {
+      "id": 22,
+      "name": "Others"
+    },
+    {
+      "id": 21,
+      "name": "Non Working"
+    }
+  ]
+}

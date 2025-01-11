@@ -1,0 +1,18 @@
+version: '3.8'
+
+services:
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+      target: base
+    volumes:
+      - ./:/home/node/app
+      - /home/node/app/node_modules
+      - ./nodemon.json:/home/node/app/nodemon.json
+    container_name: ts-node-docker
+    expose:
+      - 8080
+    ports:
+      - 8080:8080
+    command: npm run dev

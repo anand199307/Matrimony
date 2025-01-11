@@ -1,0 +1,24 @@
+{
+    "dhosam_list":[
+        {
+            "id":1 ,
+            "name":"Chevvai"
+          },
+          {
+            "id": 2,
+            "name": "Rahu/Kethu Dosham"
+          },
+          {
+            "id": 3,
+            "name": "Kuja Dosham"
+          },
+          {
+            "id": 4,
+            "name": "Kala sarpa Dosham"
+          },
+          {
+            "id": 5,
+            "name": "Kalathara Dosham"
+          }
+    ]
+}

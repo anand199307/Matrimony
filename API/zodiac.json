@@ -1,0 +1,319 @@
+{
+  "zodiac_star_list": [
+    {
+      "id": 1,
+      "zodiac_name": "Mesha/Aries",
+      "star_details": [
+        {
+          "id": 1,
+          "star_name": "Ashwini"
+        },
+        {
+          "id": 2,
+          "star_name": "Bharani"
+        },
+        {
+          "id": 3,
+          "star_name": "Krittika / Karthikai 1st Pada"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "zodiac_name": "Rishaba/Taurus",
+      "star_details": [
+        {
+          "id": 4,
+          "star_name": "Krittika/Karthikai 2nd Pada"
+        },
+        {
+          "id": 5,
+          "star_name": "Krittika/Karthikai 3nd Pada"
+        },
+        {
+          "id": 6,
+          "star_name": "Krittika/Karthikai 4nd Pada"
+        },
+        {
+          "id": 7,
+          "star_name": "Rohini"
+        },
+        {
+          "id": 8,
+          "star_name": "Mrigasira 1st Pada"
+        },
+        {
+          "id": 9,
+          "star_name": "Mrigasira 2st Pada"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "zodiac_name": "Mithuna/Gemini",
+      "star_details": [
+        {
+          "id": 10,
+          "star_name": "Mrigasira 3st Pada"
+        },
+        {
+          "id": 11,
+          "star_name": "Mrigasira 4st Pada"
+        },
+        {
+          "id": 12,
+          "star_name": "Ardra / Thiruvathirai"
+        },
+        {
+          "id": 13,
+          "star_name": "Punarvasu / Punarpoosam"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "zodiac_name": "Kataka/Cancer",
+      "star_details": [
+        {
+          "id": 14,
+          "star_name": "Punarvasu/Punarpoosam 4th Pada"
+        },
+        {
+          "id": 15,
+          "star_name": "Pushya/Pusam"
+        },
+        {
+          "id": 16,
+          "star_name": "Ashlesha/Ayilyam"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "zodiac_name": "Simha/Leo",
+      "star_details": [
+        {
+          "id": 17,
+          "star_name": "Magha / Makam"
+        },
+        {
+          "id": 18,
+          "star_name": "Purva Phalguni / Pubba / Puram"
+        },
+        {
+          "id": 19,
+          "star_name": "Uttara Palkuni / Uthram 1st Pada"
+        },
+        {
+          "id": 20,
+          "star_name": "Uttara Palkuni / Uthram 2st Pada"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "zodiac_name": "Kanya/Virgo",
+      "star_details": [
+        {
+          "id": 20,
+          "star_name": "Uttara Palkuni / Uthram 3st Pada"
+        },
+        {
+          "id": 21,
+          "star_name": "Uttara Palkuni / Uthram 3st Pada"
+        },
+        {
+          "id": 22,
+          "star_name": "Hasta / Hastham"
+        },
+        {
+          "id": 23,
+          "star_name": "Chitta / Chitra 1st Pada"
+        },
+        {
+          "id": 24,
+          "star_name": "Chitta / Chitra 2st Pada"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "zodiac_name": "Tula/Libra",
+      "star_details": [
+        {
+          "id": 25,
+          "star_name": "Chitta / Chitra 3rd Pada"
+        },
+        {
+          "id": 26,
+          "star_name": "Chitta / Chitra 4rd Pada"
+        },
+        {
+          "id": 27,
+          "star_name": "Swati"
+        },
+        {
+          "id": 28,
+          "star_name": "Vishakha / Visakam"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "zodiac_name": "Vrishchika/Scorpio",
+      "star_details": [
+        {
+          "id": 29,
+          "star_name": "Vishakha / Visakam 4th Pada"
+        },
+        {
+          "id": 30,
+          "star_name": "Anuradha / Anusham"
+        },
+        {
+          "id": 31,
+          "star_name": "Jyeshta / Kettai"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "zodiac_name": "Dhanus/Saggitarius",
+      "star_details": [
+        {
+          "id": 32,
+          "star_name": "Mula / Moolam"
+        },
+        {
+          "id": 33,
+          "star_name": "Purvashada / Pooradam"
+        },
+        {
+          "id": 34,
+          "star_name": "Uthradam / Uttarashada 1st Pada"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "zodiac_name": "Makara/Capricorn",
+      "star_details": [
+        {
+          "id": 35,
+          "star_name": "Uthradam / Uttarashada 2nd Pada"
+        },
+        {
+          "id": 36,
+          "star_name": "Uthradam / Uttarashada 3nd Pada"
+        },
+        {
+          "id": 37,
+          "star_name": "Uthradam / Uttarashada 4nd Pada"
+        },
+        {
+          "id": 38,
+          "star_name": "Shravana / Thiruvonam"
+        },
+        {
+          "id": 39,
+          "star_name": "Dhanishta / Avittam 1st Pada"
+        },
+        {
+          "id": 40,
+          "star_name": "Dhanishta / Avittam 2st Pada"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "zodiac_name": "Kumbha/Aquarius",
+      "star_details": [
+        {
+          "id": 41,
+          "star_name": "Dhanishta / Avittam 3rd Pada"
+        },
+        {
+          "id": 42,
+          "star_name": "Dhanishta / Avittam 4rd Pada"
+        },
+        {
+          "id": 43,
+          "star_name": "Satabhisha / Sadayam"
+        },
+        {
+          "id": 44,
+          "star_name": "Purva Bhadra / Poorattathi"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "zodiac_name": "Meena / Pisces",
+      "star_details": [
+        {
+          "id": 45,
+          "star_name": "Purva Bhadra / Poorattathi 4th Pada"
+        },
+        {
+          "id": 46,
+          "star_name": "Uttarabhadra / Uthirattathi"
+        },
+        {
+          "id": 47,
+          "star_name": "Revati"
+        }
+      ]
+    }
+  ],
+
+  "zodiac_name_list": [
+    {
+      "id": 1,
+      "zodiac_name": "Mesha/Aries"
+    },
+    {
+      "id": 2,
+      "zodiac_name": "Rishaba/Taurus"
+    },
+    {
+      "id": 3,
+      "zodiac_name": "Mithuna/Gemini"
+    },
+    {
+      "id": 4,
+      "zodiac_name": "Kataka/Cancer"
+    },
+    {
+      "id": 5,
+      "zodiac_name": "Simha/Leo"
+    },
+    {
+      "id": 6,
+      "zodiac_name": "Kanya/Virgo"
+    },
+    {
+      "id": 7,
+      "zodiac_name": "Tula/Libra"
+    },
+    {
+      "id": 8,
+      "zodiac_name": "Vrishchika/Scorpio"
+    },
+    {
+      "id": 9,
+      "zodiac_name": "Dhanus/Saggitarius"
+    },
+    {
+      "id": 10,
+      "zodiac_name": "Makara/Capricorn"
+    },
+    {
+      "id": 11,
+      "zodiac_name": "Kumbha/Aquarius/"
+    },
+    {
+      "id": 12,
+      "zodiac_name": "Meena/Pisces"
+    }
+  ]
+}
